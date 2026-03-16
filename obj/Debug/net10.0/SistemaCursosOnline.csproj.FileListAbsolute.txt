@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Taller1\SistemaCursosOnline\obj\Debug\net10.0\SistemaCursosOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Taller1\SistemaCursosOnline\obj\Debug\net10.0\SistemaCursosOnline.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Taller1\SistemaCursosOnline\obj\Debug\net10.0\SistemaCursosOnline.AssemblyInfo.cs
+C:\Users\USUARIO\Taller1\SistemaCursosOnline\obj\Debug\net10.0\SistemaCursosOnline.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Taller1\SistemaCursosOnline\obj\Debug\net10.0\SistemaCursosOnline.sourcelink.json
