@@ -1,29 +1,54 @@
+using System;
 using System.Collections.Generic;
+using CsvHelper.Configuration.Attributes;
+using GestionCursosOnline.Interfaces;
 
-namespace SistemaCursosOnline.Models
+namespace GestionCursosOnline.Models
 {
-    public class Curso
+    public class Curso : IInscribible
     {
         public int Id { get; set; }
-        public string Nombre { get; set; }
-        public string Descripcion { get; set; }
-        public int CupoMaximo { get; set; }
+        public string Titulo { get; set; } = string.Empty;
+        public string Descripcion { get; set; } = string.Empty;
         
-        // Un curso guarda la referencia al ID del Instructor.
-        // Si el curso se borra, el instructor sigue vivo en el sistema.
-        public int InstructorId { get; set; }
-        
-        // Un curso está fuertemente compuesto de modulos.
-        public List<Modulo> ListaDeModulos { get; set; }
+        // Relación: el curso tiene un Instructor
+        public Instructor Instructor { get; set; } = new Instructor();
+
+        // Agregación: un curso tiene una lista de estudiantes
+        [Ignore]
+        public List<Estudiante> Estudiantes { get; set; }
 
         public Curso()
         {
-            ListaDeModulos = new List<Modulo>();
+            Estudiantes = new List<Estudiante>();
         }
 
-        public void AgregarModulo(Modulo nuevoModulo)
+        public void InscribirEstudiante(Estudiante estudiante)
         {
-            ListaDeModulos.Add(nuevoModulo);
+            Estudiantes.Add(estudiante);
+            Console.WriteLine($"Estudiante {estudiante.Nombre} inscrito en el curso {Titulo}.");
+        }
+
+        public void MostrarEstudiantes()
+        {
+            Console.WriteLine($"--- Estudiantes en {Titulo} ---");
+            if (Estudiantes.Count == 0)
+            {
+                Console.WriteLine("No hay estudiantes inscritos aún.");
+            }
+            else
+            {
+                foreach (var est in Estudiantes)
+                {
+                    Console.WriteLine(est.ToString());
+                }
+            }
+            Console.WriteLine("--------------------------------");
+        }
+
+        public override string ToString()
+        {
+            return $"Curso ID: {Id} | Título: {Titulo} | Instructor: {Instructor.Nombre}";
         }
     }
 }

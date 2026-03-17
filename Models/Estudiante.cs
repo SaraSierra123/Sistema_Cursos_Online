@@ -1,8 +1,14 @@
-namespace SistemaCursosOnline.Models
+using System;
+
+namespace GestionCursosOnline.Models
 {
-    // Estudiante hereda de Usuario
     public class Estudiante : Usuario
     {
-        public string CodigoEstudiante { get; set; }
+        public string Nivel { get; set; } = string.Empty; // Ej. Principiante, Intermedio, Avanzado
+
+        public override string ToString()
+        {
+            return base.ToString() + $" | Nivel: {Nivel}";
+        }
     }
 }
