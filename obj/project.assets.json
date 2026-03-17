@@ -51,19 +51,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sara Daniela Sierra\\.nuget\\packages\\": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sara Daniela Sierra\\Taller1\\SistemaCursosOnline\\SistemaCursosOnline.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\Sistema_Cursos_Online\\SistemaCursosOnline.csproj",
       "projectName": "SistemaCursosOnline",
-      "projectPath": "C:\\Users\\Sara Daniela Sierra\\Taller1\\SistemaCursosOnline\\SistemaCursosOnline.csproj",
-      "packagesPath": "C:\\Users\\Sara Daniela Sierra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sara Daniela Sierra\\Taller1\\SistemaCursosOnline\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO\\Sistema_Cursos_Online\\SistemaCursosOnline.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\Sistema_Cursos_Online\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sara Daniela Sierra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -116,7 +116,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
