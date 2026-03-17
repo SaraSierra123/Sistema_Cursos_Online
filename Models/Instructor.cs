@@ -1,8 +1,14 @@
-namespace SistemaCursosOnline.Models
+using System;
+
+namespace GestionCursosOnline.Models
 {
-    //Instructor hereda de Usuario
     public class Instructor : Usuario
     {
-        public string Especialidad { get; set; }
+        public string Especialidad { get; set; } = string.Empty;
+
+        public override string ToString()
+        {
+            return base.ToString() + $" | Especialidad: {Especialidad}";
+        }
     }
 }
