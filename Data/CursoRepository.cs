@@ -17,7 +17,7 @@ namespace SistemaCursosOnline.Data
         public string Descripcion { get; set; }
         public int CupoMaximo { get; set; }
         public int InstructorId { get; set; }
-        public string ListaDeModulosUnidaComoTexto { get; set; } // Ejemplo: "1:Backend:20|2:Frontend:10"
+        public string ListaDeModulosUnidaComoTexto { get; set; } 
     }
 
     public class CursoRepository : ICrud<Curso>

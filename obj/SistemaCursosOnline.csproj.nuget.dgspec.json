@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Sistema_Cursos_Online\\SistemaCursosOnline.csproj": {}
+    "c:\\Users\\USUARIO\\Sistema_Cursos_Online\\SistemaCursosOnline.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\Sistema_Cursos_Online\\SistemaCursosOnline.csproj": {
+    "c:\\Users\\USUARIO\\Sistema_Cursos_Online\\SistemaCursosOnline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Sistema_Cursos_Online\\SistemaCursosOnline.csproj",
+        "projectUniqueName": "c:\\Users\\USUARIO\\Sistema_Cursos_Online\\SistemaCursosOnline.csproj",
         "projectName": "SistemaCursosOnline",
-        "projectPath": "C:\\Users\\USUARIO\\Sistema_Cursos_Online\\SistemaCursosOnline.csproj",
+        "projectPath": "c:\\Users\\USUARIO\\Sistema_Cursos_Online\\SistemaCursosOnline.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Sistema_Cursos_Online\\obj\\",
+        "outputPath": "c:\\Users\\USUARIO\\Sistema_Cursos_Online\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
