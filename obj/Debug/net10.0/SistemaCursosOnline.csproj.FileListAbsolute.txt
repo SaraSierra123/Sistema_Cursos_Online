@@ -21,21 +21,21 @@ C:\Users\Sara Daniela Sierra\Taller1\SistemaCursosOnline\obj\Debug\net10.0\refin
 C:\Users\Sara Daniela Sierra\Taller1\SistemaCursosOnline\obj\Debug\net10.0\SistemaCursosOnline.pdb
 C:\Users\Sara Daniela Sierra\Taller1\SistemaCursosOnline\obj\Debug\net10.0\SistemaCursosOnline.genruntimeconfig.cache
 C:\Users\Sara Daniela Sierra\Taller1\SistemaCursosOnline\obj\Debug\net10.0\ref\SistemaCursosOnline.dll
-c:\Users\USUARIO\Sistema_Cursos_Online\bin\Debug\net10.0\SistemaCursosOnline.exe
-c:\Users\USUARIO\Sistema_Cursos_Online\bin\Debug\net10.0\SistemaCursosOnline.deps.json
-c:\Users\USUARIO\Sistema_Cursos_Online\bin\Debug\net10.0\SistemaCursosOnline.runtimeconfig.json
-c:\Users\USUARIO\Sistema_Cursos_Online\bin\Debug\net10.0\SistemaCursosOnline.dll
-c:\Users\USUARIO\Sistema_Cursos_Online\bin\Debug\net10.0\SistemaCursosOnline.pdb
-c:\Users\USUARIO\Sistema_Cursos_Online\bin\Debug\net10.0\CsvHelper.dll
-c:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.csproj.AssemblyReference.cache
-c:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.AssemblyInfoInputs.cache
-c:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.AssemblyInfo.cs
-c:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.csproj.CoreCompileInputs.cache
-c:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.sourcelink.json
-c:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaC.53798228.Up2Date
-c:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.dll
-c:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\refint\SistemaCursosOnline.dll
-c:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.pdb
-c:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.genruntimeconfig.cache
-c:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\ref\SistemaCursosOnline.dll
+C:\Users\USUARIO\Sistema_Cursos_Online\bin\Debug\net10.0\SistemaCursosOnline.exe
+C:\Users\USUARIO\Sistema_Cursos_Online\bin\Debug\net10.0\SistemaCursosOnline.deps.json
+C:\Users\USUARIO\Sistema_Cursos_Online\bin\Debug\net10.0\SistemaCursosOnline.runtimeconfig.json
+C:\Users\USUARIO\Sistema_Cursos_Online\bin\Debug\net10.0\SistemaCursosOnline.dll
+C:\Users\USUARIO\Sistema_Cursos_Online\bin\Debug\net10.0\SistemaCursosOnline.pdb
+C:\Users\USUARIO\Sistema_Cursos_Online\bin\Debug\net10.0\CsvHelper.dll
+C:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.AssemblyInfo.cs
+C:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.sourcelink.json
+C:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaC.53798228.Up2Date
+C:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.dll
+C:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\refint\SistemaCursosOnline.dll
+C:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.pdb
+C:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\SistemaCursosOnline.genruntimeconfig.cache
+C:\Users\USUARIO\Sistema_Cursos_Online\obj\Debug\net10.0\ref\SistemaCursosOnline.dll

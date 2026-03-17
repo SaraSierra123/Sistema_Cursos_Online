@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bd/OSKjnJNc=",
+  "dgSpecHash": "Og9oUabJ838=",
   "success": true,
-  "projectFilePath": "c:\\Users\\USUARIO\\Sistema_Cursos_Online\\SistemaCursosOnline.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Sistema_Cursos_Online\\SistemaCursosOnline.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
   ],
